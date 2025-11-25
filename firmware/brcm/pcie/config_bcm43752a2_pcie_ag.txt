@@ -10,4 +10,6 @@ dhd_console_ms=20
 android_msg_level=0x5
 wl_dbg_level=0x9
 dump_msg_level=0xf
+nv_by_chip=1 \
+43752 2 nvram_ap6275p.txt
 
